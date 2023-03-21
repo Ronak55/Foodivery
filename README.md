@@ -14,4 +14,24 @@
   
   ## step 1 , Installing Expo -
   
+   ```javascript
    npm install expo-cli
+```
+
+## step 2 , Running our project on your Local machine - 
+
+   ## Copy the SSH link from the code download repository.
+   
+   ## Open your Terminal and type the command , (git clone "SSH Link")
+   
+   
+   
+ ## Step 3 , Installing all the required modules and Libraries-
+ 
+   ## Open your project folder in Vscode then open a new terminal then type the following command - 
+ 
+ ```javascript
+ npm install
+ ```
+    
+   
