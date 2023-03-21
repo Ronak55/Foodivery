@@ -28,7 +28,7 @@
    
  ## Step 3 , Installing all the required modules and Libraries-
  
-    Open your project folder in Vscode then open a new terminal then type the following command - 
+   Open your project folder in Vscode then open a new terminal then type the following command - 
  
  ```javascript
  npm install
