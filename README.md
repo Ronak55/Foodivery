@@ -2,13 +2,23 @@
 
  ## Problem Statement -
  
- There are a lot of bachelors who are studying in universities and lives on a flat far away from home.  Most of them don’t know how to cook and are highly dependent on junk foods or order foods from some food delivery websites which are unhealthy as the order is made either from a restaurant or dhabas and we all know how bad it is to consume such foods on a daily or even on a weekly basis.  There arises the problem of limited options for healthy and homecooked foods.  Some of the bachelors tend to pay monthly for their daily foods from some dhabas which is again too expensive for them.  Also there is lack of transparency and trust in food delivery.  
+ Access to healthy and affordable food is a basic human right, yet it remains a significant barrier for many individuals.
+ The demand for convenient and nutritious food options is on the rise as our society becomes more fast-paced and health-conscious.
+.  Despite this, millions of people worldwide especially bachhelors living far from thier home continue to suffer from food insecurity,
+ which has a devastating impact on their physical, mental, and emotional health. current available options are failing for promoting a healthy and disease-free lifestyle
+And with passsing time people are loosing a connect to their traditional side and there is no solution present that is concerned with all these problems.
+This leads to a myriad of health issue.
 
  
  
  ## Solution -
  
-  What if they are provided with “Ghar ka khaana”  while living far from home. Not a bad idea right? In a society where that bachelor lives or nearby his flat.  A lot of homechefs make homemade food.  What if just by staying at home and using their cooking skills they earn some money by selling it to those bachelors nearby her flat.  What if patients own a healthy lifestyle and can make their health better?
+To address these challenges, we have developed an app that enables users to order healthy and affordable food online from nearby homes. Our app not only addresses the lack of traditional food delivery options in underserved areas,
+ but also ensures that users have access to nutritious meals that promote good health.In addition to addressing food insecurity, our app recognizes the crucial role of proper nutrition in healthcare.
+ Consequently, our app also targets paitents who are in the most need of adopting a healthy lifestyle or those who cannnot leave homes due to health concerns
+Moreover, our app also aims to combat the issue of food waste by connecting users with skilled home chefs who specialize in using locally sourced ingredients to produce fresh, homemade meals. By promoting sustainable food practices, we not only support the local economy but also contribute to protecting the environment.
+hrough our app, we aim to address the critical issues of food insecurity, hunger, malnutrition, and poor health outcomes by providing a dependable and affordable food delivery service
+
   
   ## How to run this App in your Local Machine ?
   
