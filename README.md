@@ -28,10 +28,28 @@
    
  ## Step 3 , Installing all the required modules and Libraries-
  
-   Open your project folder in Vscode then open a new terminal then type the following command - 
+ Open your project folder in Vscode then open a new terminal then type the following command - 
  
  ```javascript
  npm install
+ ```
+ 
+ ## Step 4 , Running the Expo App - 
+ 
+ Go to your project folder and open a new terminal and type the following commands -
+ 
+ ```javascript
+ 
+ expo start 
+  
+ ```
+ 
+ If you are getting response timed out  , then type the following command - 
+ 
+ ```javascript
+ 
+ expo start --tunnel
+ 
  ```
     
    
