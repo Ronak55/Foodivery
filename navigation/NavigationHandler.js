@@ -27,7 +27,7 @@ const NavigationHandler = () => {
 
   return (
     <NavigationContainer style={styles.container}>
-      <Stack.Navigator initialRouteName="AddMenuScreen">
+      <Stack.Navigator initialRouteName="Screen1">
         { }
 
         <Stack.Screen
